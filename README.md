@@ -1,4 +1,5 @@
-## https://github-profile-trophy.vercel.app/?username=kojo-io
+## 
+<a href="https://kojo-io.com"><img src="https://github-profile-trophy.vercel.app/?username=kojo-io" alt="kojo-io" /></a>
 
 <!--
 **kojo-io/kojo-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
