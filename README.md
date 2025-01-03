@@ -1,6 +1,6 @@
 [![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://github.com/rmaheto)
 
-<h1 align="center">Hi 👋, I'm Raymond Aheto</h1>
+<h1 align="center">Hi 👋, I'm Bernard Kojo Ossei Agyei</h1>
 <h3 align="center">A full-stack developer</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400">
 
@@ -8,11 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kojo-io&label=Profile%20views&color=0e75b6&style=flat" alt="kojo-io" /> </p>
 
-- 🌱 I’m currently learning **Spring, Spring-Boot, React**
+- 🌱 I’m still learning **C#, dot net core, Angular, Flutter**
 
-- 💬 Ask me about **Java, Nodejs, Express, Javascript, HTML, CSS**
-
-- 📫 How to reach me **rmkaheto@gmail.com**
+- 📫 How to reach me **bernard.ossei@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
